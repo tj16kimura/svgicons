@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path d="M11.64 5.93h1.43v4.28h-1.43m3.93-4.28H17v4.28h-1.43M7 2L3.43 5.57v12.86h4.28V22l3.58-3.57h2.85L20.57 12V2m-1.43 9.29l-2.85 2.85h-2.86l-2.5 2.5v-2.5H7.71V3.43h11.43z" fill="#6441a5"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="262.894 197.979 17.14 20" xmlns="http://www.w3.org/2000/svg">
+  <rect x="266.218" y="206.705" width="7.995" height="5.991" style="fill: rgb(255, 255, 255);"/>
+  <rect x="273.575" y="207.123" width="4.45" height="2.443" style="fill: rgb(255, 255, 255);"/>
+  <rect x="273.627" y="207.474" width="3.037" height="3.034" style="fill: rgb(255, 255, 255);"/>
+  <rect x="266.876" y="199.214" width="12.19" height="8.668" style="fill: rgb(255, 255, 255);"/>
+  <path d="M 271.104 201.909 L 272.534 201.909 L 272.534 206.189 L 271.104 206.189 M 275.034 201.909 L 276.464 201.909 L 276.464 206.189 L 275.034 206.189 M 266.464 197.979 L 262.894 201.549 L 262.894 214.409 L 267.174 214.409 L 267.174 217.979 L 270.754 214.409 L 273.604 214.409 L 280.034 207.979 L 280.034 197.979 M 278.604 207.269 L 275.754 210.119 L 272.894 210.119 L 270.394 212.619 L 270.394 210.119 L 267.174 210.119 L 267.174 199.409 L 278.604 199.409 Z" fill="#6441a5"/>
+</svg>
